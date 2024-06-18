@@ -60,7 +60,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone [https://github.com/yourusername/clean-haven.git](https://github.com/skal28/Clean-Haven/tree/main)
+git clone https://github.com/yourusername/clean-haven.git](https://github.com/skal28/Clean-Haven
 cd clean-haven
 Install Dependencies:
 
